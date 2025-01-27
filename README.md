@@ -1,5 +1,7 @@
-# ion_implantaion
-When applied to metals, ion implantation can be used for a variety of purposes, including improving surface properties like hardness, wear resistance, corrosion resistance, and even altering the material's conductivity.
+Computational Project Proposal: Understanding the Effects of Ion Implantation on the Properties of Alloys Using Generalized Representative Structures (GRS)
 
-Surface Damage: High-energy ion implantation can cause some damage to the metal's crystal lattice structure, which may affect its mechanical properties. However, this can often be mitigated by post-implantation annealing to repair the damage.
-Depth Distribution: Achieving a uniform depth profile of implanted ions can be challenging, particularly if very specific and controlled modification of the surface is required.
+Project Objective:
+
+The goal of this computational project is to develop a comprehensive simulation framework to study the effects of ion implantation on the atomic and mechanical properties of metal alloys. Using Generalized Representative Structures (GRS), we aim to model the atomic-scale behavior of alloys subjected to ion implantation and predict how changes in composition, crystal structure, and microstructure impact key material properties such as hardness, corrosion resistance, and wear behavior.
+
+References: https://iopscience.iop.org/article/10.1088/1361-648X/ad9791/meta
