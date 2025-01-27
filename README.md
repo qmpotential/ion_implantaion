@@ -1,4 +1,4 @@
-Computational Project Proposal: Understanding the Effects of Ion Implantation on the Properties of Alloys Using Generalized Representative Structures (GRS)
+# Computational Project: Understanding the Effects of Ion Implantation on the Properties of Alloys Using Machine Learning Potentials
 
 Project Objective:
 
